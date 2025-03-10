@@ -1,0 +1,229 @@
+h1,h2 {
+    background-color: goldenrod;
+    background-image: linear-gradient(180deg,goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1cm;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
+body#pag {
+    background-image:url(../Imagenes/Imagen_de_fondo\(Final\).png);
+    
+    background-size: 100%;
+}
+
+body#pag_combat {
+    background-image:url(../Imagenes/Imagen_de_fondo\(Final\).png);
+    background-repeat: 1;
+    background-size: 100%;
+}
+body#carga {
+    background-image:url(../Imagenes/Imagen_de_fondo\(Final\).png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: "Anton", serif;
+}
+
+body#form {
+    background-image:url(../Imagenes/Imagen_de_fondo\(Final\).png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+a {
+    color: goldenrod;
+}
+
+form {
+    background-color: goldenrod;
+    background-image: linear-gradient(180deg,goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+input {
+    background-color: goldenrod;
+    background-image: linear-gradient(180deg,goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p {
+    background-color: goldenrod;
+    background-image: linear-gradient(180deg,goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+nav ul li{
+    background-color: goldenrod;
+    background-image: linear-gradient(180deg,goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+section ul li {
+    background-color: goldenrod;
+    background-image: linear-gradient(180deg,goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    list-style: url(../Imagenes/b093.gif);
+}
+section ol li {
+    background-color: goldenrod;
+    background-image: linear-gradient(180deg,goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+section ol li {
+    background-color: goldenrod;
+    background-image: linear-gradient(180deg,goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+div#habilidad {
+    width: 55%;
+}
+h2#logo {
+    font-size: small;
+    background-color: goldenrod;
+    position: sticky;
+    }
+
+h1#Cargando {
+    background-color: goldenrod;
+    background-image: linear-gradient(goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 5cm;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+
+p#p2 {
+    width: 64%;
+}
+
+footer p {
+    position: relative;
+}
+
+header nav {
+    display: inline;
+    font-size: 0.8em;
+    width: 100%;
+    position: static;
+    left: 20%;
+    top: -10px;
+    z-index: 2;
+    background-color: #4d4d4d;
+    padding-bottom: 20px;
+    
+}
+
+header ul {
+    list-style: none;
+}
+
+header li {
+    width: 15%;
+    float: left;
+}
+
+header ul>li a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+
+header ul>li a:hover {
+    background-color: #636363;
+    background-color: goldenrod;
+    background-image: linear-gradient(goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h2#p2 {
+    padding-top: 150px;
+}
+
+h1#p1 {
+    padding-top: 15px;
+}
+
+table tr,th,td {
+    border-width: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+    padding: 10px;
+    border-color: goldenrod;
+}
+th.cab,td.perso {
+    background-color: goldenrod;
+    background-image: linear-gradient(goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+table td.via {
+    color: rgb(185, 185, 185);
+}
+
+td.Físico {
+    color: gray;
+}
+
+td.Fuego {
+    color: red;
+}
+
+td.Viento {
+    color: rgb(0, 255, 128);
+}
+
+td.Electricidad {
+    color: rgb(163, 0, 163);
+}
+
+td.Cuantico {
+    color: blue;
+}
+
+td.Imaginario {
+    color: rgb(255, 217, 0);
+}
+
+td.Hielo {
+    color: rgb(0, 195, 255);
+}
+
+abbr {
+    background-color: goldenrod;
+    background-image: linear-gradient(goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+ul li#via {
+    color: rgb(185, 185, 185);
+}
+
+p#element {
+    background-color: #636363;
+}
+
+div {
+    background-color: goldenrod;
+    background-image: linear-gradient(goldenrod, white, skyblue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
